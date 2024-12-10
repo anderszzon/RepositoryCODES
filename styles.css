@@ -1,1 +1,12 @@
-this is a file for additional .css i future :D 
+/* Este es un comentario en CSS */
+body {
+    background-color: lightblue; /* Este comentario explica el estilo aplicado */
+}
+
+/* Bloque de comentarios 
+   para describir un conjunto
+   de estilos */
+h1 {
+    font-size: 24px;
+    color: navy;
+}
